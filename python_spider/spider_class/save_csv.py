@@ -18,10 +18,10 @@ import csv
 #     writer.writerow(['3','xiao','23'])
 
 # 使用writerows()可以同时写入多行
-# with open('data_rows.csv','w',newline='') as csvfile:
-#     writer = csv.writer(csvfile)
-#     writer.writerow(['id','name','age'])
-#     writer.writerows([['10010','Mike','23'],['10011','Bob','22'],['10003','Jordan','21']])
+with open('data_rows.csv','w',newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(['id','name','age'])
+    writer.writerows([['10010','Mike','23'],['10011','Bob','22'],['10003','Jordan','21']])
 
 #爬虫爬的都是结构化的数据。对数据进行存储
 # with open('data_row_head.csv','w',newline='') as csvfile:
@@ -33,7 +33,7 @@ import csv
 #     writer.writerow({'id':'10013','name':'Joe','age':24})
 
 # 对数据的读取：
-with open('data.csv','r',encoding='utf-8') as csvfile:
-    reader = csv.reader(csvfile)
-    for i in reader:
-        print(i)
+# with open('data.csv','r',encoding='utf-8') as csvfile:
+#     reader = csv.reader(csvfile)
+#     for i in reader:
+#         print(i)

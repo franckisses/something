@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        .ok{
+            font-size: 80px;
+        }
+        .box{
+    	font-size: 20px;
+    	color:#4cc134;
+    	margin: 10px;
+    	animation: changeshadow 1s  ease-in  infinite ;
+    	/* 其它浏览器兼容性前缀 */
+	    -webkit-animation: changeshadow 1s linear infinite;
+	    -moz-animation: changeshadow 1s linear infinite;
+	    -ms-animation: changeshadow 1s linear infinite;
+	    -o-animation: changeshadow 1s linear infinite;
+        }
+        @keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #4cc134}
+            50%{ text-shadow: 0 0 40px #4cc134}
+            100%{ text-shadow: 0 0 4px #4cc134}
+        }
+        /* 添加兼容性前缀 */
+        @-webkit-keyframes changeshadow {
+          0%{ text-shadow: 0 0 4px #4cc134}
+              50%{ text-shadow: 0 0 40px #4cc134}
+              100%{ text-shadow: 0 0 4px #4cc134}
+        }
+        @-moz-keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #4cc134}
+                50%{ text-shadow: 0 0 40px #4cc134}
+                100%{ text-shadow: 0 0 4px #4cc134}
+        }
+        @-ms-keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #4cc134}
+                50%{ text-shadow: 0 0 40px #4cc134}
+                100%{ text-shadow: 0 0 4px #4cc134}
+        }
+        @-o-keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #4cc134}
+                50%{ text-shadow: 0 0 40px #4cc134}
+                100%{ text-shadow: 0 0 4px #4cc134}
+        }
+        #inbox{
+            float: right;
+            margin-right: 80px;
+            margin-top: 60px;
+        }
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <title>LvsNAT</title>
+</head>
+<body>
+    <div id="bbox" style="background-image:url('./img.png') ; background-repeat:no;">
+        <div id="inbox">
+            <span class="box">Website</span>
+            <span class="box">1</span>
+        </div>
+
+    </div>
+</body>
+</html>

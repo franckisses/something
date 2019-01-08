@@ -33,7 +33,7 @@ html = """
 """
 
 soup = BeautifulSoup(html,'lxml')
-
+print(type(soup))
 # 提取信息
 # 方法选择器find_all（） 匹配所有的
 # 查找节点
