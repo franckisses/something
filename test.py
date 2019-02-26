@@ -12,13 +12,16 @@
 # 1.先将列表中的元素进行遍历
 # 2.将遍历的元素进行算术运算
 # 3.将运算后的元素追加到新的列表中
+import requsets
 
+fuck = requsets.get("http://www.baidu.com")
+print(fuck.text)
 # a = [1,2,3,4,5,6,7,8,9]
 # b = []
 # for i in a:
 #     b.append(i**2)
 # print(b)
-#
+
 # url = ['tmooc.cn','sina.cn','baidu.com']
 # new_url = ["http://www."+i for i in url ]
 # print(new_url)

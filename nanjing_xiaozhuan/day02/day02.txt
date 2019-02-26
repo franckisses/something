@@ -1,0 +1,73 @@
+1. 0.一个简单的面试题
+   1.python的编码规范
+
+2.有道词典。
+  再写一个爬虫程序。a股上市企业的信息。
+  将其存储到txt文本中
+
+3.简单讲解json的由来。抓取京东的评论。
+json字符串的抓取。通过找到京东评论将其存储为json格式文本。
+
+4 HTTP原理。
+
+import部分
+
+1.先去写系统模块 os，math，sys，time，然后是第三方模块。最后是我们自己写的模块。
+    在三种模块之间有空行。
+        import os
+        import sys
+
+        from fake_useragent import UserAgent
+
+        import UserAgentPool
+2.在导入系统模块的时候。import os，sys，math
+        import os
+        import sys
+        import math
+3.在导入模块的时候。
+        import XX         [建议]
+        from xx import yy [建议]
+        from xx import * [不建议]
+
+python的编码规范：
+1.不要使用tab，使用空格进行缩进，更不要混合使用tab和空格。
+2.python官方建议：每行最多写80个字符，如果超过的话使用\[斜杠进行换行]
+2.类和全局函数之间要有两个空行，类内的方法之间必须有一个空行.
+  函数之间必须有一个空行
+
+空格的使用：
+    1.变量赋值的时候等号两边必须用空格。
+    2.在使用括号的使用。值与值之间的逗号都要有空格。右括号不用去留空格[1, 2, 3]
+    3.函数的左括号前不用加空格。
+    4.函数的默认参数不用加空格。
+    5.if/with/for 即使后边的语句块只有一句，也要进行换行。
+
+
+python对于文件的操作:
+1.f = open(filename,mode)
+  f.close()
+2.with open(filename,mode) as f:
+    #不用去执行close()方法
+
+
+通过beautifulsoup 来提取网页的信息。
+pip install bs4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
