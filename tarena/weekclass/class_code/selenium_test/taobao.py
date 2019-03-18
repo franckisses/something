@@ -9,18 +9,20 @@
 -------------------------------------------------
 """
 from selenium import webdriver
-import io,sys
-
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='gb18030')
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
+from urllib.parse import quote
 
 web = webdriver.Chrome()
-url = 'http://www.taobao.com'
-web.get(url)
-input_first = web.find_element_by_id('q')
-input_second = web.find_element_by_css_selector('#q')
-input_third = web.find_elements_by_xpath('//*[@id="q"]')
-print(input_first)
-print(input_second)
-print(input_third)
+wait = WebDriverWait(web,10)
+KEY = 'iphone'
 
-web.close()
+def index_page(page):
+    """
+    抓取索引页
+    :param page:页码
+    :return:
+    """
+    print('正在抓取第%d页'%page)

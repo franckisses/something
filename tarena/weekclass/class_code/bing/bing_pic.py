@@ -24,7 +24,6 @@ def get_page(url):
     html = response.text.replace('&','')
     doc = pq(html)
     fonts = doc('font font')
-    print(fonts.text())
     imgs = doc("img").items()
     for img in imgs:
         src = img.attr('src').replace('-listpic','')
