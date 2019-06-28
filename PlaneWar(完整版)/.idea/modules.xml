@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PlaneWar.iml" filepath="$PROJECT_DIR$/.idea/PlaneWar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PlaneWarFinal/.idea/PlaneWarFinal.iml" filepath="$PROJECT_DIR$/../PlaneWarFinal/.idea/PlaneWarFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestPlaneWar/.idea/TestPlaneWar.iml" filepath="$PROJECT_DIR$/../TestPlaneWar/.idea/TestPlaneWar.iml" />
+    </modules>
+  </component>
+</project>

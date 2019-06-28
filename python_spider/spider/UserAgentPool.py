@@ -2,7 +2,6 @@
 this module is for spider.User-Agent pool
 email:franck_gxu@outlook.com
 """
-
 import random
 
 class UserAgent:
@@ -65,5 +64,3 @@ class UserAgent:
     def user_agent(self):
         # 返回一个随机的UA
         return random.choice(self.User_Agent)
-
-
