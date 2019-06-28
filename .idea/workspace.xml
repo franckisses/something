@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f02168f-1393-4970-8700-587ef54a8618" name="Default Changelist" comment="this is just for test mysql.">
+      <change afterPath="$PROJECT_DIR$/dataScience/numpyStudy/day01/numpy_ndarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fun/douyin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_test/faster_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_test/moreprocess_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_test/process_pool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_test/process_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_test/yibu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_spider/spider/zhihu/zhihu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/re_test/bing_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/re_test/re_static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/re_test/re_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test/cookie_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarena/weekclass/test_urllib/robots_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/mysql_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysql_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/day01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/easy_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/hahah.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/jianshu_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/nihao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/requests_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/series_url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/time_deny.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/urllib_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/user_agent_show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/user_agent_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day01/xpath_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/bs4_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/china_poem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/coutry_statics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/day02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/def_arguements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/dongqiudi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/interview.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/ip_address.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/jd_comments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/read_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day02/youdao_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nanjing_xiaozhuan/day03/day03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_spider/spider/UserAgentPool.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_spider/spider/UserAgentPool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarena/weekclass/class_code/bing/bing_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/tarena/weekclass/class_code/bing/bing_pic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test/taobao.py" beforeDir="false" afterPath="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test/taobao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test/taobao_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test/taobao_selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarena/weekclass/test_urllib/request_get.py" beforeDir="false" afterPath="$PROJECT_DIR$/tarena/weekclass/test_urllib/request_get.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/code$setwindows.coverage" NAME="setwindows Coverage Results" MODIFIED="1546085305884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/obj" />
+    <SUITE FILE_PATH="coverage/code$bing_pic.coverage" NAME="bing_pic Coverage Results" MODIFIED="1547734804888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code" />
+    <SUITE FILE_PATH="coverage/code$urlunencode_test.coverage" NAME="urlunencode_test Coverage Results" MODIFIED="1551246405743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$login.coverage" NAME="login Coverage Results" MODIFIED="1537834653395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
+    <SUITE FILE_PATH="coverage/code$xpath_show.coverage" NAME="xpath_show Coverage Results" MODIFIED="1546860751842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code" />
+    <SUITE FILE_PATH="coverage/code$interview.coverage" NAME="interview Coverage Results" MODIFIED="1551140613742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$UserAgent.coverage" NAME="UserAgent Coverage Results" MODIFIED="1551679158944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day06" />
+    <SUITE FILE_PATH="coverage/code$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1551669367879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp" />
+    <SUITE FILE_PATH="coverage/code$request_get.coverage" NAME="request_get Coverage Results" MODIFIED="1551220441386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/test_urllib" />
+    <SUITE FILE_PATH="coverage/code$maoyancode.coverage" NAME="maoyancode Coverage Results" MODIFIED="1545601991523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/猫眼电影" />
+    <SUITE FILE_PATH="coverage/code$spider.coverage" NAME="spider Coverage Results" MODIFIED="1551356569851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$movie_static.coverage" NAME="movie_static Coverage Results" MODIFIED="1551678328342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day06" />
+    <SUITE FILE_PATH="coverage/code$class_xpath.coverage" NAME="class_xpath Coverage Results" MODIFIED="1545302227826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/code_show/show_xpath" />
+    <SUITE FILE_PATH="coverage/code$def_arguements.coverage" NAME="def_arguements Coverage Results" MODIFIED="1551142521676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$beautiful_soup3.coverage" NAME="beautiful_soup3 Coverage Results" MODIFIED="1546996574643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_class" />
+    <SUITE FILE_PATH="coverage/code$listable.coverage" NAME="listable Coverage Results" MODIFIED="1537843364114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$start.coverage" NAME="start Coverage Results" MODIFIED="1551652053975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider" />
+    <SUITE FILE_PATH="coverage/code$Astock_crawl.coverage" NAME="Astock_crawl Coverage Results" MODIFIED="1551322259507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$easy_spider.coverage" NAME="easy_spider Coverage Results" MODIFIED="1551056991640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$pyquery_test.coverage" NAME="pyquery_test Coverage Results" MODIFIED="1551335552546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1551273684287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$yibu.coverage" NAME="yibu Coverage Results" MODIFIED="1551306640956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process_test" />
+    <SUITE FILE_PATH="coverage/code$cloudmusic_comment.coverage" NAME="cloudmusic_comment Coverage Results" MODIFIED="1538959089268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/netease" />
+    <SUITE FILE_PATH="coverage/code$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1545099366012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
+    <SUITE FILE_PATH="coverage/code$bs4_test.coverage" NAME="bs4_test Coverage Results" MODIFIED="1551163064598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$tftp_server__1_.coverage" NAME="tftp_server (1) Coverage Results" MODIFIED="1545407874660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/project" />
+    <SUITE FILE_PATH="coverage/code$vertor_sum.coverage" NAME="vertor_sum Coverage Results" MODIFIED="1551502628558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataScience/numpyStudy" />
+    <SUITE FILE_PATH="coverage/code$show.coverage" NAME="show Coverage Results" MODIFIED="1539323925966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$txt2excel.coverage" NAME="txt2excel Coverage Results" MODIFIED="1545035003267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/dataanalyze" />
+    <SUITE FILE_PATH="coverage/code$wait_sele.coverage" NAME="wait_sele Coverage Results" MODIFIED="1548061908604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$lagou_jobdetail.coverage" NAME="lagou_jobdetail Coverage Results" MODIFIED="1550040737582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/拉钩" />
+    <SUITE FILE_PATH="coverage/code$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1537839773286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$singer163.coverage" NAME="singer163 Coverage Results" MODIFIED="1538998600518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../网易云音乐免费下载源码" />
+    <SUITE FILE_PATH="coverage/code$set_pickle.coverage" NAME="set_pickle Coverage Results" MODIFIED="1537857826025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$beautiful_soup2.coverage" NAME="beautiful_soup2 Coverage Results" MODIFIED="1542079756341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_class" />
+    <SUITE FILE_PATH="coverage/code$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1545099368970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
+    <SUITE FILE_PATH="coverage/code$xpath_test.coverage" NAME="xpath_test Coverage Results" MODIFIED="1551095311415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$netmusic_music.coverage" NAME="netmusic_music Coverage Results" MODIFIED="1539001788683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/netease" />
+    <SUITE FILE_PATH="coverage/code$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1551662308624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2" />
+    <SUITE FILE_PATH="coverage/code$multithreadpic.coverage" NAME="multithreadpic Coverage Results" MODIFIED="1551305526599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/fightpic" />
+    <SUITE FILE_PATH="coverage/code$ten.coverage" NAME="ten Coverage Results" MODIFIED="1542249467278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_framework/tencent_wanted/tencent_wanted/spiders" />
+    <SUITE FILE_PATH="coverage/code$taobao_spider.coverage" NAME="taobao_spider Coverage Results" MODIFIED="1547802407683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/taobao" />
+    <SUITE FILE_PATH="coverage/code$urlparse_test.coverage" NAME="urlparse_test Coverage Results" MODIFIED="1551245688308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$tencent_wanted.coverage" NAME="tencent_wanted Coverage Results" MODIFIED="1549961654647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/code_show" />
+    <SUITE FILE_PATH="coverage/code$Beautiful_pic.coverage" NAME="Beautiful_pic Coverage Results" MODIFIED="1543214068935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/code_show" />
+    <SUITE FILE_PATH="coverage/code$MysqlHelper.coverage" NAME="MysqlHelper Coverage Results" MODIFIED="1551324223443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/猫眼电影" />
+    <SUITE FILE_PATH="coverage/code$start__4_.coverage" NAME="start (4) Coverage Results" MODIFIED="1551660849428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua" />
+    <SUITE FILE_PATH="coverage/code$chrome_driver.coverage" NAME="chrome_driver Coverage Results" MODIFIED="1545096158736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python1" />
+    <SUITE FILE_PATH="coverage/code$china_poems.coverage" NAME="china_poems Coverage Results" MODIFIED="1547708305636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code" />
+    <SUITE FILE_PATH="coverage/code$phantomJS_test.coverage" NAME="phantomJS_test Coverage Results" MODIFIED="1551099785352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/phantomJS" />
+    <SUITE FILE_PATH="coverage/code$function_test_1.coverage" NAME="function_test_1 Coverage Results" MODIFIED="1537859654214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$coutry_statics.coverage" NAME="coutry_statics Coverage Results" MODIFIED="1551166390374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$tftp_server.coverage" NAME="tftp_server Coverage Results" MODIFIED="1545404135178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/tftp_test" />
+    <SUITE FILE_PATH="coverage/code$Data_jd_lipstick_visuable.coverage" NAME="Data_jd_lipstick_visuable Coverage Results" MODIFIED="1547870644252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/jd" />
+    <SUITE FILE_PATH="coverage/code$urllib_test.coverage" NAME="urllib_test Coverage Results" MODIFIED="1551063900464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$maoyan_re.coverage" NAME="maoyan_re Coverage Results" MODIFIED="1551228759146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_test" />
+    <SUITE FILE_PATH="coverage/code$bing_crawl.coverage" NAME="bing_crawl Coverage Results" MODIFIED="1551255034958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$ipproxy.coverage" NAME="ipproxy Coverage Results" MODIFIED="1551339167606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$fic_tickets.coverage" NAME="fic_tickets Coverage Results" MODIFIED="1546479651590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/12306" />
+    <SUITE FILE_PATH="coverage/code$pytest_in_test_1_py.coverage" NAME="pytest in test_1.py Coverage Results" MODIFIED="1537840008456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$tftp_client.coverage" NAME="tftp_client Coverage Results" MODIFIED="1545404138822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/tftp_test" />
+    <SUITE FILE_PATH="coverage/code$danke_rent4shenzhen.coverage" NAME="danke_rent4shenzhen Coverage Results" MODIFIED="1551168545865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/danke" />
+    <SUITE FILE_PATH="coverage/code$bing_re.coverage" NAME="bing_re Coverage Results" MODIFIED="1551229055565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_test" />
+    <SUITE FILE_PATH="coverage/code$music_parse.coverage" NAME="music_parse Coverage Results" MODIFIED="1548641214907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code" />
+    <SUITE FILE_PATH="coverage/code$manage_browser.coverage" NAME="manage_browser Coverage Results" MODIFIED="1547019775762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$set_test_1.coverage" NAME="set_test_1 Coverage Results" MODIFIED="1537846420540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$fightpic.coverage" NAME="fightpic Coverage Results" MODIFIED="1551257806594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$faster_process.coverage" NAME="faster_process Coverage Results" MODIFIED="1551306965202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process_test" />
+    <SUITE FILE_PATH="coverage/code$nanjing_lianjia.coverage" NAME="nanjing_lianjia Coverage Results" MODIFIED="1551337873652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$qq_qonze.coverage" NAME="qq_qonze Coverage Results" MODIFIED="1548403534977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$moreprocess_test.coverage" NAME="moreprocess_test Coverage Results" MODIFIED="1551305925375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process_test" />
+    <SUITE FILE_PATH="coverage/code$newdata.coverage" NAME="newdata Coverage Results" MODIFIED="1545037253654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/dataanalyze" />
+    <SUITE FILE_PATH="coverage/code$6vhao.coverage" NAME="6vhao Coverage Results" MODIFIED="1538901150952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/6vhao" />
+    <SUITE FILE_PATH="coverage/code$function_test.coverage" NAME="function_test Coverage Results" MODIFIED="1551235040665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$dict_test_2.coverage" NAME="dict_test_2 Coverage Results" MODIFIED="1537842881302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$baidu_selenium.coverage" NAME="baidu_selenium Coverage Results" MODIFIED="1548682477906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$zhihu.coverage" NAME="zhihu Coverage Results" MODIFIED="1551271459962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/zhihu" />
+    <SUITE FILE_PATH="coverage/code$selenium_test2.coverage" NAME="selenium_test2 Coverage Results" MODIFIED="1551342902439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$show_time.coverage" NAME="show_time Coverage Results" MODIFIED="1542337015823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_class" />
+    <SUITE FILE_PATH="coverage/code$xueqiu_test.coverage" NAME="xueqiu_test Coverage Results" MODIFIED="1546523400022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/xueqiu" />
+    <SUITE FILE_PATH="coverage/code$mysql_test.coverage" NAME="mysql_test Coverage Results" MODIFIED="1551323289100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
+    <SUITE FILE_PATH="coverage/code$asyncio_test.coverage" NAME="asyncio_test Coverage Results" MODIFIED="1545436649817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/厦门理工" />
+    <SUITE FILE_PATH="coverage/code$urllib_post.coverage" NAME="urllib_post Coverage Results" MODIFIED="1551237363945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$DQD.coverage" NAME="DQD Coverage Results" MODIFIED="1551427368789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05/dongqiudi/dongqiudi/spiders" />
+    <SUITE FILE_PATH="coverage/code$douyin.coverage" NAME="douyin Coverage Results" MODIFIED="1551227391933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fun" />
+    <SUITE FILE_PATH="coverage/code$dict_test_3.coverage" NAME="dict_test_3 Coverage Results" MODIFIED="1537841804205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$dongqiudi.coverage" NAME="dongqiudi Coverage Results" MODIFIED="1551163784415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$lagou_selenium.coverage" NAME="lagou_selenium Coverage Results" MODIFIED="1551422066154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$lagou_cloud.coverage" NAME="lagou_cloud Coverage Results" MODIFIED="1550028278810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/拉钩" />
+    <SUITE FILE_PATH="coverage/code$QQmail.coverage" NAME="QQmail Coverage Results" MODIFIED="1548059406306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code" />
+    <SUITE FILE_PATH="coverage/code$ip_address.coverage" NAME="ip_address Coverage Results" MODIFIED="1551167852909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$PlaneWar.coverage" NAME="PlaneWar Coverage Results" MODIFIED="1545183348855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PlaneWar(完整版)/code" />
+    <SUITE FILE_PATH="coverage/code$taobao_test.coverage" NAME="taobao_test Coverage Results" MODIFIED="1545654491728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$taobao_selenium.coverage" NAME="taobao_selenium Coverage Results" MODIFIED="1551357507715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$requests_post.coverage" NAME="requests_post Coverage Results" MODIFIED="1546592413711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/test_urllib" />
+    <SUITE FILE_PATH="coverage/code$qiushibaike.coverage" NAME="qiushibaike Coverage Results" MODIFIED="1546862094778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code" />
+    <SUITE FILE_PATH="coverage/code$youdao_dict.coverage" NAME="youdao_dict Coverage Results" MODIFIED="1551144595251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1551155318255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$wangyidict.coverage" NAME="wangyidict Coverage Results" MODIFIED="1546520501106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/youdaofanyi" />
+    <SUITE FILE_PATH="coverage/code$pyquery_1.coverage" NAME="pyquery_1 Coverage Results" MODIFIED="1542112181944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_class" />
+    <SUITE FILE_PATH="coverage/code$requestReq.coverage" NAME="requestReq Coverage Results" MODIFIED="1551237846350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$deal_cookies.coverage" NAME="deal_cookies Coverage Results" MODIFIED="1551402351282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$zhihu_sele.coverage" NAME="zhihu_sele Coverage Results" MODIFIED="1547027472387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1547280256637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$youdao.coverage" NAME="youdao Coverage Results" MODIFIED="1551099864419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/youdaofanyi" />
+    <SUITE FILE_PATH="coverage/code$action_chain.coverage" NAME="action_chain Coverage Results" MODIFIED="1551400184511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$process_pool.coverage" NAME="process_pool Coverage Results" MODIFIED="1551340260918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$jsspider.coverage" NAME="jsspider Coverage Results" MODIFIED="1551623292873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/spiders" />
+    <SUITE FILE_PATH="coverage/code$quote_test.coverage" NAME="quote_test Coverage Results" MODIFIED="1551246770166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$urllib_test1.coverage" NAME="urllib_test1 Coverage Results" MODIFIED="1551236520703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$try.coverage" NAME="try Coverage Results" MODIFIED="1548041092522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$back_forward.coverage" NAME="back_forward Coverage Results" MODIFIED="1548064472461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$.coverage" NAME="有道 Coverage Results" MODIFIED="1546520331350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider" />
+    <SUITE FILE_PATH="coverage/code$maoyan.coverage" NAME="maoyan Coverage Results" MODIFIED="1547035015424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code" />
+    <SUITE FILE_PATH="coverage/code$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1551317457268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$urllib_requests.coverage" NAME="urllib_requests Coverage Results" MODIFIED="1551217715533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/test_urllib" />
+    <SUITE FILE_PATH="coverage/code$re_test.coverage" NAME="re_test Coverage Results" MODIFIED="1551229876924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_test" />
+    <SUITE FILE_PATH="coverage/code$requests_test.coverage" NAME="requests_test Coverage Results" MODIFIED="1551078242347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$get_weather.coverage" NAME="get_weather Coverage Results" MODIFIED="1538964264815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/weather_data" />
+    <SUITE FILE_PATH="coverage/code$deal_exception.coverage" NAME="deal_exception Coverage Results" MODIFIED="1551403719895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1546210965246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/obj" />
+    <SUITE FILE_PATH="coverage/code$process_test1.coverage" NAME="process_test1 Coverage Results" MODIFIED="1551305178152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process_test" />
+    <SUITE FILE_PATH="coverage/code$wait_01.coverage" NAME="wait_01 Coverage Results" MODIFIED="1551400993493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$Beautiful_strs.coverage" NAME="Beautiful_strs Coverage Results" MODIFIED="1543215765589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/code_show" />
+    <SUITE FILE_PATH="coverage/code$tftp_client__1_.coverage" NAME="tftp_client (1) Coverage Results" MODIFIED="1545407876615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/project" />
+    <SUITE FILE_PATH="coverage/code$MysqlHelper__1_.coverage" NAME="MysqlHelper (1) Coverage Results" MODIFIED="1547870437495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/lianjia/lianjia_ershou" />
+    <SUITE FILE_PATH="coverage/code$user_agent_show.coverage" NAME="user_agent_show Coverage Results" MODIFIED="1551074293435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$implicitly.coverage" NAME="implicitly Coverage Results" MODIFIED="1548061066535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$urllib_api.coverage" NAME="urllib_api Coverage Results" MODIFIED="1551236976129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$mulitpr.coverage" NAME="mulitpr Coverage Results" MODIFIED="1545411842427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/厦门理工" />
+    <SUITE FILE_PATH="coverage/code$series_url.coverage" NAME="series_url Coverage Results" MODIFIED="1551076943375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$Beautiful_str.coverage" NAME="Beautiful_str Coverage Results" MODIFIED="1542363784366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/code_show" />
+    <SUITE FILE_PATH="coverage/code$robots_test.coverage" NAME="robots_test Coverage Results" MODIFIED="1551220975633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/test_urllib" />
+    <SUITE FILE_PATH="coverage/code$set_test_2.coverage" NAME="set_test_2 Coverage Results" MODIFIED="1537857140140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$bilibili_spider.coverage" NAME="bilibili_spider Coverage Results" MODIFIED="1538906998009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/bilibili" />
+    <SUITE FILE_PATH="coverage/code$pyquery_test__1_.coverage" NAME="pyquery_test (1) Coverage Results" MODIFIED="1551250078087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$process_test.coverage" NAME="process_test Coverage Results" MODIFIED="1551339765607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$save_csv.coverage" NAME="save_csv Coverage Results" MODIFIED="1542114423713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_class" />
+    <SUITE FILE_PATH="coverage/code$create_database.coverage" NAME="create_database Coverage Results" MODIFIED="1546078599749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/obj" />
+    <SUITE FILE_PATH="coverage/code$dict_test_1.coverage" NAME="dict_test_1 Coverage Results" MODIFIED="1537840954761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day1" />
+    <SUITE FILE_PATH="coverage/code$pic.coverage" NAME="pic Coverage Results" MODIFIED="1551053251012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/fightpic" />
+    <SUITE FILE_PATH="coverage/code$urlencode_test.coverage" NAME="urlencode_test Coverage Results" MODIFIED="1551246182078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$selenium_forward_back.coverage" NAME="selenium_forward_back Coverage Results" MODIFIED="1551402052415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1539142876134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$main.coverage" NAME="main Coverage Results" MODIFIED="1548404025813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/obj" />
+    <SUITE FILE_PATH="coverage/code$poems.coverage" NAME="poems Coverage Results" MODIFIED="1545599989809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/古诗网" />
+    <SUITE FILE_PATH="coverage/code$alicloud_test.coverage" NAME="alicloud_test Coverage Results" MODIFIED="1550115111655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/ip_pool" />
+    <SUITE FILE_PATH="coverage/code$wait_02.coverage" NAME="wait_02 Coverage Results" MODIFIED="1551401586406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$urllib_request_get.coverage" NAME="urllib_request_get Coverage Results" MODIFIED="1546586116841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/test_urllib" />
+    <SUITE FILE_PATH="coverage/code$try_except.coverage" NAME="try_except Coverage Results" MODIFIED="1551235630268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day03" />
+    <SUITE FILE_PATH="coverage/code$choice_manager.coverage" NAME="choice_manager Coverage Results" MODIFIED="1548065377373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$haha.coverage" NAME="haha Coverage Results" MODIFIED="1551078803169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$cookie_test.coverage" NAME="cookie_test Coverage Results" MODIFIED="1551354816392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1551624426435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_framework/jianshu" />
+    <SUITE FILE_PATH="coverage/code$qqmail_selenium.coverage" NAME="qqmail_selenium Coverage Results" MODIFIED="1551343956416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1551408797712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$user_agent_test.coverage" NAME="user_agent_test Coverage Results" MODIFIED="1551073881157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$weibo_test.coverage" NAME="weibo_test Coverage Results" MODIFIED="1542275286694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/weibo" />
+    <SUITE FILE_PATH="coverage/code$dytt.coverage" NAME="dytt Coverage Results" MODIFIED="1545604153050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider/电影天堂" />
+    <SUITE FILE_PATH="coverage/code$MyWeather.coverage" NAME="MyWeather Coverage Results" MODIFIED="1546477863012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/obj" />
+    <SUITE FILE_PATH="coverage/code$jianshu_test.coverage" NAME="jianshu_test Coverage Results" MODIFIED="1551057733942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day01" />
+    <SUITE FILE_PATH="coverage/code$selenium_test.coverage" NAME="selenium_test Coverage Results" MODIFIED="1551341211354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$find_element.coverage" NAME="find_element Coverage Results" MODIFIED="1548077681247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$blue_fat.coverage" NAME="blue_fat Coverage Results" MODIFIED="1537856739648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonl练习/有意思的玩玩" />
+    <SUITE FILE_PATH="coverage/code$beautiful_soup.coverage" NAME="beautiful_soup Coverage Results" MODIFIED="1542075308985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/spider_class" />
+    <SUITE FILE_PATH="coverage/code$handler_error.coverage" NAME="handler_error Coverage Results" MODIFIED="1548065922299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test" />
+    <SUITE FILE_PATH="coverage/code$python2_3.coverage" NAME="python2_3 Coverage Results" MODIFIED="1538749737948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/python2/day3" />
+    <SUITE FILE_PATH="coverage/code$dataanalyze.coverage" NAME="dataanalyze Coverage Results" MODIFIED="1545049520899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/dataanalyze" />
+    <SUITE FILE_PATH="coverage/code$maoyan_test.coverage" NAME="maoyan_test Coverage Results" MODIFIED="1551316811571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day04" />
+    <SUITE FILE_PATH="coverage/code$selenium_page_source.coverage" NAME="selenium_page_source Coverage Results" MODIFIED="1551399234960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+    <SUITE FILE_PATH="coverage/code$jd_comments.coverage" NAME="jd_comments Coverage Results" MODIFIED="1551149618399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$save_xlxs.coverage" NAME="save_xlxs Coverage Results" MODIFIED="1545036286438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_spider/dataanalyze" />
+    <SUITE FILE_PATH="coverage/code$asyncioProcess.coverage" NAME="asyncioProcess Coverage Results" MODIFIED="1545436610385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础/厦门理工" />
+    <SUITE FILE_PATH="coverage/code$china_poem.coverage" NAME="china_poem Coverage Results" MODIFIED="1551171730726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day02" />
+    <SUITE FILE_PATH="coverage/code$function.coverage" NAME="function Coverage Results" MODIFIED="1539226088833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$window_open.coverage" NAME="window_open Coverage Results" MODIFIED="1551403111697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nanjing_xiaozhuan/day05" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jianshu2: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jianshu2: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="test1: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1117926426">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="90" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="7" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.29" value="4" />
+          <entry key="project.open.time.2965" value="1" />
+          <entry key="project.open.time.30" value="4" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="3" />
+          <entry key="project.open.time.33" value="3" />
+          <entry key="project.open.time.34" value="4" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="4" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.40" value="4" />
+          <entry key="project.open.time.41" value="4" />
+          <entry key="project.open.time.42" value="4" />
+          <entry key="project.open.time.43" value="4" />
+          <entry key="project.open.time.45" value="3" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.56" value="2" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="8" />
+          <entry key="project.opened" value="105" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bak" value="1" />
+          <entry key="cfg" value="3" />
+          <entry key="contents" value="8" />
+          <entry key="csv" value="23" />
+          <entry key="day03" value="3" />
+          <entry key="day04" value="1" />
+          <entry key="day05" value="3" />
+          <entry key="day06" value="1" />
+          <entry key="groovy" value="1" />
+          <entry key="html" value="23" />
+          <entry key="ipynb" value="1" />
+          <entry key="jpg" value="51" />
+          <entry key="json" value="38" />
+          <entry key="lastfailed" value="1" />
+          <entry key="lianjia" value="1" />
+          <entry key="log" value="1" />
+          <entry key="maoyan" value="1" />
+          <entry key="md" value="2" />
+          <entry key="nodeids" value="1" />
+          <entry key="png" value="1" />
+          <entry key="py" value="604" />
+          <entry key="sql" value="5" />
+          <entry key="t1" value="1" />
+          <entry key="tmooc" value="3" />
+          <entry key="txt" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="14" />
+          <entry key="HTML" value="23" />
+          <entry key="IPNB" value="1" />
+          <entry key="Image" value="52" />
+          <entry key="Ini" value="3" />
+          <entry key="JSON" value="38" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="Python" value="604" />
+          <entry key="Scratch" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="597" />
+          <entry key="csv" value="2" />
+          <entry key="day03" value="459" />
+          <entry key="day04" value="240" />
+          <entry key="day05" value="836" />
+          <entry key="day06" value="1536" />
+          <entry key="dummy" value="93" />
+          <entry key="html" value="2109" />
+          <entry key="json" value="6" />
+          <entry key="py" value="79332" />
+          <entry key="sql" value="67" />
+          <entry key="txt" value="2793" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2109" />
+          <entry key="JSON" value="6" />
+          <entry key="PLAIN_TEXT" value="5959" />
+          <entry key="Python" value="79919" />
+          <entry key="RegExp" value="8" />
+          <entry key="SQL" value="69" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.remote" value="1" />
+          <entry key="git.branch.compare" value="2" />
+          <entry key="git.branch.create.new" value="1" />
+          <entry key="git.branch.merge" value="1" />
+          <entry key="git.branch.rebase" value="1" />
+          <entry key="git.checkout.as.new.branch" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4CC134</find>
+      <find>99ff00</find>
+      <find>ff0000</find>
+      <find>FF3366</find>
+      <find>3333ff</find>
+      <find>3399ff</find>
+      <find>4cc134</find>
+      <find>read_table</find>
+      <find>etree</find>
+      <find>13511301041625</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>FF3333</replace>
+      <replace>FFFF00</replace>
+      <replace>FF3366</replace>
+      <replace>3333FF</replace>
+      <replace>3399FF</replace>
+      <replace>4cc134</replace>
+      <replace>ff0000</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="python_spider" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="python_spider" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tarena/weekclass/class_code/selenium_test/taobao_selenium.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/selenium_page_source.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/action_chain.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/wait_01.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/wait_02.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/selenium_forward_back.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/deal_cookies.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/window_open.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/deal_exception.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/lagou.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/lagou_selenium.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/dongqiudi/dongqiudi/start.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/day05" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/dongqiudi/dongqiudi/items.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/dongqiudi/dongqiudi/pipelines.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/dongqiudi/dongqiudi/settings.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/dongqiudi/dongqiudi.json" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day05/dongqiudi/dongqiudi/spiders/DQD.py" />
+        <option value="$PROJECT_DIR$/dataScience/numpyStudy/vertor_sum.py" />
+        <option value="$PROJECT_DIR$/dataScience/numpyStudy/day01/numpy_ndarray.py" />
+        <option value="$PROJECT_DIR$/python_spider/spider_framework/wxapp/wxapp/pipelines.py" />
+        <option value="$PROJECT_DIR$/python_spider/spider_framework/testUa/testUa/middlewares.py" />
+        <option value="$PROJECT_DIR$/python_spider/spider_framework/testUa/testUa/spiders/httpUa.py" />
+        <option value="$PROJECT_DIR$/tarena/testcrawl/testcrawl/spiders/testua.py" />
+        <option value="$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/pipelines.py" />
+        <option value="$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/settings.py" />
+        <option value="$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/spiders/jsspider.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/start.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/items.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/spiders/jianshu.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/settings.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/pipelines.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day06/testcrawl/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/nihaonanjing/spiders/nihao.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua/settings.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua/start.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua/spiders/useragent.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/start.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/settings.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/middlewares.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/spiders/useragent.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/start.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/settings.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/spiders/wxspider.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/items.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/pipelines.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day06/new.csv" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day06/UserAgent.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day02/deal_word.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day06/movie_static.py" />
+        <option value="$PROJECT_DIR$/nanjing_xiaozhuan/day06/day06" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="875" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers Scope="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="code_show" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="nanjing_xiaozhuan" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spider_framework" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spider_framework" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="testUa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spider_framework" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="testUa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="testUa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="python_spider" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spider_framework" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="testUa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="testUa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spiders" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="python_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="网&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/djangostart" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gongyan\Desktop\code\tarena\weekclass" />
+      <recent name="C:\Users\gongyan\Desktop\code\tarena\weekclass\class_code\taobao" />
+      <recent name="C:\Users\gongyan\Desktop\code\python_spider\dataanalyze" />
+      <recent name="C:\Users\gongyan\Desktop\code\python_spider\code_show\2018-12-04" />
+      <recent name="C:\Users\gongyan\Desktop\code\python_spider\code_show" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gongyan\Desktop\code\nanjing_xiaozhuan\day06" />
+      <recent name="C:\Users\gongyan\Desktop\code\dataScience\numpyStudy\day01" />
+      <recent name="C:\Users\gongyan\Desktop\code\nanjing_xiaozhuan\day05\dongqiudi" />
+      <recent name="C:\Users\gongyan\Desktop\code" />
+      <recent name="C:\Users\gongyan\Desktop\code\nanjing_xiaozhuan" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.UserAgent">
+    <configuration name="UserAgent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nanjing_xiaozhuan/day06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nanjing_xiaozhuan/day06/UserAgent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="beautiful_soup3" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_spider/spider_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_spider/spider_class/beautiful_soup3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movie_static" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nanjing_xiaozhuan/day06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nanjing_xiaozhuan/day06/movie_static.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.beautiful_soup3" />
+      <item itemvalue="Python.start (4)" />
+      <item itemvalue="Python.start (1)" />
+      <item itemvalue="Python.start (2)" />
+      <item itemvalue="Python.movie_static" />
+      <item itemvalue="Python.UserAgent" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.UserAgent" />
+        <item itemvalue="Python.movie_static" />
+        <item itemvalue="Python.start (2)" />
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.start (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\gongyan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f02168f-1393-4970-8700-587ef54a8618" name="Default Changelist" comment="" />
+      <created>1537834561155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537834561155</updated>
+    </task>
+    <task id="LOCAL-00001" summary="nothing to show">
+      <created>1538898483039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538898483039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this is a spider for bilibili.">
+      <created>1538908484899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538908484899</updated>
+    </task>
+    <task id="LOCAL-00003" summary="this is a spider for download neteasemusic,this file can down load all of singer in netease.">
+      <created>1539003478258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539003478258</updated>
+    </task>
+    <task id="LOCAL-00004" summary="this is a spider for download neteasemusic,this file can down load all of singer in netease.">
+      <created>1539003753832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539003753832</updated>
+    </task>
+    <task id="LOCAL-00005" summary="this is a spider for download neteasemusic,this file can down load all of singer in netease.">
+      <created>1542100137080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542100137081</updated>
+    </task>
+    <task id="LOCAL-00006" summary="this is a spider for download neteasemusic,this file can down load all of singer in netease.">
+      <created>1542114449691</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542114449691</updated>
+    </task>
+    <task id="LOCAL-00007" summary="this is a spider for download neteasemusic,this file can down load all of singer in netease.">
+      <created>1546919285165</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546919285165</updated>
+    </task>
+    <task id="LOCAL-00008" summary="this is a spider for download maoyan,this file can down load all of singer in netease.">
+      <created>1551189780209</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1551189780209</updated>
+    </task>
+    <task id="LOCAL-00009" summary="this is just for test mysql.">
+      <created>1551189930994</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551189930994</updated>
+    </task>
+    <task id="LOCAL-00010" summary="this is just for test mysql.">
+      <created>1551189950079</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1551189950079</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 41m 38s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 41m 48s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 41m 52s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 42m 09s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 42m 21s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 42m 49s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 43m 32s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 45m 57s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_py - 2018.09.25 at 09h 46m 49s.xml">
+      <configuration name="pytest in test_1.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49512196" visible="true" weight="0.16792738" />
+      <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.17309146" />
+      <window_info id="Favorites" order="2" sideWeight="0.50487804" side_tool="true" weight="0.1732224" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2487725" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80484116" weight="0.60229135" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46317512" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32405892" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.65957445" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32569557" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.19515885" side_tool="true" weight="0.42062193" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4969651" visible="true" weight="0.512275" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.40589198" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32753405" />
+      <window_info anchor="right" id="Database" order="4" weight="0.28214827" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49512196" visible="true" weight="0.27987897" />
+      <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.17309146" />
+      <window_info id="Favorites" order="2" sideWeight="0.50487804" side_tool="true" weight="0.1732224" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2487725" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.80484116" visible="true" weight="0.05400982" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46317512" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32405892" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.65957445" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32569557" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.19515885" side_tool="true" weight="0.42062193" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4969651" weight="0.027823241" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.40589198" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32753405" />
+      <window_info anchor="right" id="Database" order="4" weight="0.28214827" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nothing to show" />
+    <MESSAGE value="this is a spider for bilibili." />
+    <MESSAGE value="this is a spider for download neteasemusic,this file can down load all of singer in netease." />
+    <MESSAGE value="this is a spider for download maoyan,this file can down load all of singer in netease." />
+    <MESSAGE value="this is just for test mysql." />
+    <option name="LAST_COMMIT_MESSAGE" value="this is just for test mysql." />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Anaconda3/Lib/site-packages/scrapy/utils/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/wxapp/wxapp/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/wxapp/Weixin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataScience/datascience/numpy_test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/jianshu/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/3-crawlspider.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider/猫眼电影/maoyancode_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider/猫眼电影/MysqlHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="51" column="43" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/spiders/jsspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/jianshu/jianshu/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="95" column="46" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider/猫眼电影/maoyancode_yield.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/test/jsspider/jsspider/spiders/jianshu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/wxapp/wxapp/spiders/wxapp_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/testcrawl/testcrawl/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/testcrawl/testcrawl/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/testcrawl/testcrawl/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/nihaonanjing/spiders/nihao.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/testcrawl/testcrawl/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/testcrawl/testcrawl/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/testcrawl/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua/start.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua/spiders/useragent.py" />
+    <entry file="file://$PROJECT_DIR$/python_spider/spider_framework/testUa/testUa/spiders/httpUa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua/testua/settings.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/start.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/spiders/useragent.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/testua2/testua2/settings.py" />
+    <entry file="file://C:/Anaconda3/pkgs/scrapy-1.5.1-py36_0/Lib/site-packages/scrapy/http/response/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1184">
+          <caret line="117" column="8" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/start.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/items.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/settings.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/spiders/wxspider.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/nihaonanjing/wxapp/wxapp/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/new.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/UserAgent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day02/deal_word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataScience/numpyStudy/day01/vertor_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/movie_static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/day06/day06">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/project1/comment.py" />
+    <entry file="file://$PROJECT_DIR$/nanjing_xiaozhuan/project1/analyse.py" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
