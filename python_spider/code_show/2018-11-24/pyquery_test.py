@@ -25,8 +25,8 @@ html = """
     <td id="num">2</td>
     <td>深圳</td>
     <td>2018-12-23</td>
-    <img src="http://www.baidu.com">
-</tr>
+    <img src="http://www.baidu.com"
+></tr>
 """
 
 
