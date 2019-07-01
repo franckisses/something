@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    .ok{
+        font-size: 80px;
+    }
+    .box{
+    	display: inline-block;
+    	font-size: 72px;
+        float: right;
+        margin-right: 50px;
+        margin-top: 70px;
+    	/*background: linear-gradient(left, #FFFF00, #FFFF00);*/
+        /*background: -webkit-linear-gradient(left, #3399FF,#CCFF33);*/
+        /*background: -o-linear-gradient(right, #3399FF, #CCFF33);*/
+        background: linear-gradient(left, #6666FF, #6666FF);
+        background: -webkit-linear-gradient(left, #99FFCC, #66CCFF);
+        background: -o-linear-gradient(right, #99FFCC, #66CCFF);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		animation:scratchy 0.253s linear forwards infinite;
+		/* 其它浏览器兼容性前缀 */
+	    -webkit-animation:scratchy 0.253s linear forwards infinite;
+	    -moz-animation: scratchy 0.253s linear forwards infinite;
+	    -ms-animation: scratchy 0.253s linear forwards infinite;
+	    -o-animation: scratchy 0.253s linear forwards infinite;
+    }
+   @keyframes  scratchy {
+		0% {
+			background-position: 0 0;
+		}
+		25% {
+			background-position: 0 0;
+		}
+		26% {
+			background-position: 20px -20px;
+		}
+		50% {
+			background-position: 20px -20px;
+		}
+		51% {
+			background-position: 40px -40px;
+		}
+		75% {
+			background-position: 40px -40px;
+		}
+		76% {
+			background-position: 60px -60px;
+		}
+		99% {
+			background-position: 60px -60px;
+		}
+		100% {
+			background-position: 0 0;
+		}
+	}
+	/* 添加兼容性前缀 */
+	@-webkit-keyframes scratchy {
+	    0% {
+			background-position: 0 0;
+		}
+		25% {
+			background-position: 0 0;
+		}
+		26% {
+			background-position: 20px -20px;
+		}
+		50% {
+			background-position: 20px -20px;
+		}
+		51% {
+			background-position: 40px -40px;
+		}
+		75% {
+			background-position: 40px -40px;
+		}
+		76% {
+			background-position: 60px -60px;
+		}
+		99% {
+			background-position: 60px -60px;
+		}
+		100% {
+			background-position: 0 0;
+		}
+	}
+	@-moz-keyframes scratchy {
+	    0% {
+			background-position: 0 0;
+		}
+		25% {
+			background-position: 0 0;
+		}
+		26% {
+			background-position: 20px -20px;
+		}
+		50% {
+			background-position: 20px -20px;
+		}
+		51% {
+			background-position: 40px -40px;
+		}
+		75% {
+			background-position: 40px -40px;
+		}
+		76% {
+			background-position: 60px -60px;
+		}
+		99% {
+			background-position: 60px -60px;
+		}
+		100% {
+			background-position: 0 0;
+		}
+	}
+	@-ms-keyframes scratchy {
+	   0% {
+			background-position: 0 0;
+		}
+		25% {
+			background-position: 0 0;
+		}
+		26% {
+			background-position: 20px -20px;
+		}
+		50% {
+			background-position: 20px -20px;
+		}
+		51% {
+			background-position: 40px -40px;
+		}
+		75% {
+			background-position: 40px -40px;
+		}
+		76% {
+			background-position: 60px -60px;
+		}
+		99% {
+			background-position: 60px -60px;
+		}
+		100% {
+			background-position: 0 0;
+		}
+	}
+	@-o-keyframes scratchy {
+	   0% {
+			background-position: 0 0;
+		}
+		25% {
+			background-position: 0 0;
+		}
+		26% {
+			background-position: 20px -20px;
+		}
+		50% {
+			background-position: 20px -20px;
+		}
+		51% {
+			background-position: 40px -40px;
+		}
+		75% {
+			background-position: 40px -40px;
+		}
+		76% {
+			background-position: 60px -60px;
+		}
+		99% {
+			background-position: 60px -60px;
+		}
+		100% {
+			background-position: 0 0;
+		}
+	}
+    #bbox{
+        width: auto;
+        height: 700px;
+    }
+
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>LvsNAT</title>
+</head>
+<body>
+    <div id="bbox" style="background-image:url('img.png');background-repeat:no-repeat;">
+        <span class="box">Website&nbsp;1</span>
+    </div>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        .ok{
+            font-size: 80px;
+        }
+        .box{
+    	font-size: 65px;
+    	color:#ff0000;
+    	margin: 10px;
+    	animation: changeshadow 1s  ease-in  infinite ;
+    	/* 其它浏览器兼容性前缀 */
+	    -webkit-animation: changeshadow 1s linear infinite;
+	    -moz-animation: changeshadow 1s linear infinite;
+	    -ms-animation: changeshadow 1s linear infinite;
+	    -o-animation: changeshadow 1s linear infinite;
+        }
+        @keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #ff0000}
+            50%{ text-shadow: 0 0 40px #ff0000}
+            100%{ text-shadow: 0 0 4px #ff0000}
+        }
+        /* 添加兼容性前缀 */
+        @-webkit-keyframes changeshadow {
+          0%{ text-shadow: 0 0 4px #ff0000}
+              50%{ text-shadow: 0 0 40px #ff0000}
+              100%{ text-shadow: 0 0 4px #ff0000}
+        }
+        @-moz-keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #ff0000}
+                50%{ text-shadow: 0 0 40px #ff0000}
+                100%{ text-shadow: 0 0 4px #ff0000}
+        }
+        @-ms-keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #ff0000}
+                50%{ text-shadow: 0 0 40px #ff0000}
+                100%{ text-shadow: 0 0 4px #ff0000}
+        }
+        @-o-keyframes changeshadow {
+            0%{ text-shadow: 0 0 4px #ff0000}
+                50%{ text-shadow: 0 0 40px #ff0000}
+                100%{ text-shadow: 0 0 4px #ff0000}
+        }
+        #bbox{
+            width: auto;
+            height: 600px;
+        }
+        .box1{
+            font-size: 65px;
+            color:#ff0000;
+            margin-left: 20px;
+            /*margin-top: 100px;*/
+            padding-top: 100px;
+        }
+        #inbox{
+            float: right;
+            margin-right: 65px;
+            margin-top: 70px;
+        }
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <title>LvsNAT</title>
+</head>
+<body>
+    <div id="bbox" style="background-image:url('img.png') ; background-repeat:no;">
+        <div id="inbox">
+            <span class="box">Website&nbsp;1</span>
+        </div>
+
+    </div>
+</body>
+</html>
+
+
+
+<!--ORIGNAL COLOR IS #ff0000-->
+<!--red:-->
+<!-- -->
+<!-- -->
+<!---->
